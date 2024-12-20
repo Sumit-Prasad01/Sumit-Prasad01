@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumit-Prasad01
+- 👋 Hi, I’m @Sumit Prasad
 - 🔭 I’m currently working on
 - Building full-stack web applications and exploring new technologies in web development.
 
