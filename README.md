@@ -79,7 +79,7 @@ End-to-End ML Pipelines • Scalable AI Systems • Model Deployment • Experim
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAEySURBVHgBpdNNSsNAEAfwcZpCEYvYpZDeoZdeI/QieoBeoBfIIXqBHqAX6AV6gV6gF+gFegFfKBRFfK8DiyS7m9SAb8IsO5v5v5mdXRTFf5fX69Xtdru9y8NisXglInoWkW8ROX8Wp9PpRUR0Pp+P+v1+VxiGEZPJpBMEwXv/5D+S9XrdO8DhcPgiIrpX7XvY7/e75Bof1Bq/yYPB4ImIuE/j7wI8VFW1Yf0mXhYpTVMvIqY861m5XWttKkmScpIkR1U1K2W8G3DOeYvF4peSJGkCHInIM75fFEXX9z0XNlGv1+vUarV6Y3W5O8D0PM9ba/1Y4G6ZpqmXpunDvwKbzUafPOf8R67rup6maVp7Y7vdmqZpXmBba/WttZ6maepHUXRTv9XzKqX8XfwX4A2D3nK8I+O9BAAAAABJRU5ErkJggg==&logoColor=blue)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
