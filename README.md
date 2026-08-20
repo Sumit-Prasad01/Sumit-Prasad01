@@ -1,121 +1,189 @@
-# Hi there! I'm Sumit Prasad 👋
+<div align="center">
 
-### 🧠 Applied Sciences | Machine Learning | Generative AI | Agentic AI
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                                 ║
+║   ███████╗██╗   ██╗███╗   ███╗██╗████████╗                    ║
+║   ██╔════╝██║   ██║████╗ ████║██║╚══██╔══╝                    ║
+║   ███████╗██║   ██║██╔████╔██║██║   ██║                       ║
+║   ╚════██║██║   ██║██║╚██╔╝██║██║   ██║                       ║
+║   ███████║╚██████╔╝██║ ╚═╝ ██║██║   ██║                       ║
+║   ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝   ╚═╝                       ║
+║                                                                 ║
+║              P R A S A D  —  A P P L I E D   A I               ║
+║                                                                 ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=%3E+booting+applied_sciences.exe...;%3E+loading+machine_learning+modules...;%3E+initializing+generative_ai...;%3E+agentic_systems+%5BONLINE%5D;%3E+status%3A+ready+to+collaborate_" alt="Typing SVG" />
 
-## 💫 About Me
+</div>
 
-#### I am focused on building **end-to-end, production-ready AI systems** that solve real-world problems. 
-#### My work bridges the gap between academic curiosity and engineering rigor, combining **Machine Learning, Deep Learning, and Agentic AI**. 
-#### I emphasize a research-driven approach, ensuring every system is built for **evaluation and scalability.**
+<br>
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│ SYSTEM.LOG                                                   │
+└─────────────────────────────────────────────────────────────┘
+```
 
-* 🔬 Working on **ML/DL systems, LLMs (RAG, Agents), and intelligent pipelines**
-* 📊 Interested in **model optimization, evaluation, and system design**
-* 🌱 Learning **Production ML, MLOps, and advanced Agentic AI systems**
-* 🤝 Open to **collaborations in applied AI & real-world projects**
+```
+> WHOAMI
+--------------------------------------------------------------
+  I build end-to-end, production-ready AI systems that solve
+  real-world problems. My work bridges academic curiosity and
+  engineering rigor — Machine Learning, Deep Learning, and
+  Agentic AI, all held to the same bar: evaluate it, scale it.
 
----
+  [ RESEARCH-DRIVEN ]  [ PRODUCTION-GRADE ]  [ ALWAYS SHIPPING ]
+```
 
-## 🌐 Connect
+```
+> CURRENT_PROCESSES
+--------------------------------------------------------------
+  [RUNNING]   ML / DL systems, LLMs (RAG, Agents), pipelines
+  [RUNNING]   Model optimization, evaluation & system design
+  [LEARNING]  Production ML, MLOps, advanced Agentic AI
+  [OPEN]      Collaborations in applied AI & real-world projects
+```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sumit-prasad-94a98531b)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/SumitPrasad_19)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sumitprasadd19@gmail.com)
+<br>
 
----
+<div align="center">
 
-## ⚡ Core Expertise
+```
+╔═══════════════════════════╗
+║   >> CONNECT_WITH_ME <<   ║
+╚═══════════════════════════╝
+```
 
-**Machine Learning & AI**
-Supervised & Unsupervised Learning • Deep Learning • Model Evaluation • Representation Learning
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sumit-prasad-94a98531b)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/SumitPrasad_19)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:sumitprasadd19@gmail.com)
 
-**Generative AI**
-LLMs • Retrieval-Augmented Generation (RAG) • Prompt Engineering • Agentic AI Systems
+</div>
 
-**Systems & Engineering**
-End-to-End ML Pipelines • Scalable AI Systems • Model Deployment • Experiment Tracking
+<br>
 
----
+```
+┌─────────────────────────────────────────────────────────────┐
+│ SKILL.TREE                                                   │
+└─────────────────────────────────────────────────────────────┘
+```
 
-## 🛠️ Tech Stack
+**► MACHINE LEARNING & AI**
+`Supervised Learning` `Unsupervised Learning` `Deep Learning` `Model Evaluation` `Representation Learning`
 
-### **Languages & Web Frameworks**
-![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+**► GENERATIVE AI**
+`LLMs` `RAG` `Prompt Engineering` `Agentic AI Systems`
 
-### **AI, Machine Learning & Research**
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat-square)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**► SYSTEMS & ENGINEERING**
+`End-to-End Pipelines` `Scalable AI Systems` `Model Deployment` `Experiment Tracking`
 
-### **Generative & Agentic AI**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-24292e?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<br>
 
-### **Data & Vector Databases**
-![Qdrant](https://img.shields.io/badge/Qdrant-FF3E00?style=flat-square&logo=qdrant&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-005A9C?style=flat-square&logo=meta&logoColor=white)
+```
+┌─────────────────────────────────────────────────────────────┐
+│ HARDWARE.CONFIG — TECH STACK                                 │
+└─────────────────────────────────────────────────────────────┘
+```
 
-### **Infrastructure & MLOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+**LANGUAGES & FRAMEWORKS**
 
-### **Version Control & Collaboration**
-![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39FF14)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
+![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=39FF14)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-000000?style=for-the-badge&logo=streamlit&logoColor=39FF14)
 
+**AI / ML / RESEARCH**
 
----
+![PyTorch](https://img.shields.io/badge/PYTORCH-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-000000?style=for-the-badge&logo=tensorflow&logoColor=39FF14)
+![Keras](https://img.shields.io/badge/KERAS-000000?style=for-the-badge&logo=keras&logoColor=39FF14)
+![HuggingFace](https://img.shields.io/badge/HUGGING_FACE-000000?style=for-the-badge&logo=huggingface&logoColor=39FF14)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT_LEARN-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14)
+![OpenCV](https://img.shields.io/badge/OPENCV-000000?style=for-the-badge&logo=opencv&logoColor=39FF14)
 
-## 🎯 Focus
+**GENERATIVE & AGENTIC AI**
 
-* Building **LLM-powered applications (RAG + Agents)**
-* Designing **scalable, reliable ML pipelines**
-* Improving **model performance, evaluation, and robustness**
-* Bridging **research → production AI systems**
+![LangChain](https://img.shields.io/badge/LANGCHAIN-000000?style=for-the-badge&logoColor=39FF14)
+![LangGraph](https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logoColor=39FF14)
+![Ollama](https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=39FF14)
+![OpenAI](https://img.shields.io/badge/OPENAI-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
 
----
+**DATA & VECTOR DATABASES**
 
-## 📊 GitHub Stats
+![Qdrant](https://img.shields.io/badge/QDRANT-000000?style=for-the-badge&logo=qdrant&logoColor=39FF14)
+![Neo4j](https://img.shields.io/badge/NEO4J-000000?style=for-the-badge&logo=neo4j&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
+![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=39FF14)
+![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=39FF14)
 
-![](https://github-readme-stats.vercel.app/api?username=Sumit-Prasad01\&theme=tokyonight\&hide_border=true\&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Prasad01\&theme=tokyonight\&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Prasad01\&theme=tokyonight\&hide_border=true\&layout=compact)
+**INFRASTRUCTURE & MLOPS**
 
----
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=39FF14)
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=39FF14)
+![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=39FF14)
+![MLflow](https://img.shields.io/badge/MLFLOW-000000?style=for-the-badge&logoColor=39FF14)
+![Airflow](https://img.shields.io/badge/AIRFLOW-000000?style=for-the-badge&logo=apacheairflow&logoColor=39FF14)
+![Jenkins](https://img.shields.io/badge/JENKINS-000000?style=for-the-badge&logo=jenkins&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/GH_ACTIONS-000000?style=for-the-badge&logo=githubactions&logoColor=39FF14)
+![Grafana](https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=39FF14)
+![Prometheus](https://img.shields.io/badge/PROMETHEUS-000000?style=for-the-badge&logo=prometheus&logoColor=39FF14)
 
-<!-- ## 📈 Profile Views
+**VERSION CONTROL & COLLABORATION**
 
-[![](https://visitcount.itsvg.in/api?id=Sumit-Prasad01\&icon=5\&color=6)](https://visitcount.itsvg.in) -->
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)
+![GitLab](https://img.shields.io/badge/GITLAB-000000?style=for-the-badge&logo=gitlab&logoColor=39FF14)
+![Postman](https://img.shields.io/badge/POSTMAN-000000?style=for-the-badge&logo=postman&logoColor=39FF14)
 
----
+<br>
 
-✨ *Bridging research and real-world AI systems*
+```
+┌─────────────────────────────────────────────────────────────┐
+│ FOCUS.EXE — WHAT I'M BUILDING TOWARD                          │
+└─────────────────────────────────────────────────────────────┘
+```
+
+```
+[■■■■■■■■■■] LLM-powered applications (RAG + Agents)
+[■■■■■■■■■■] Scalable, reliable ML pipelines
+[■■■■■■■■■■] Model performance, evaluation & robustness
+[■■■■■■■■■■] Bridging research → production AI systems
+```
+
+<br>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│ STATS.DAT                                                    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sumit-Prasad01&theme=synthwave&hide_border=true&show_icons=true&bg_color=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Prasad01&theme=synthwave&hide_border=true&background=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Prasad01&theme=synthwave&hide_border=true&layout=compact&bg_color=0d1117" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║   "Bridging research and real-world AI systems"                ║
+║                                                                 ║
+║              [ PRESS ANY KEY TO COLLABORATE ]                  ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
