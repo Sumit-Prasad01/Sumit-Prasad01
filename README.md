@@ -168,9 +168,9 @@
 
 <div align="center">
 
-<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Prasad01&theme=synthwave&hide_border=true&show_icons=true&bg_color=0d1117&layout=compact&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Prasad01&theme=synthwave&hide_border=true&show_icons=true&bg_color=0d1117&layout=compact&include_all_commits=true&count_private=true" />
 
-<img height="200" src="https://streak-stats.demolab.com/?user=Sumit-Prasad01&theme=synthwave&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=Sumit-Prasad01&background=0d1117&border=21262d&stroke=30363d&ring=f0883e&fire=f0883e&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=f0883e&sideLabels=e6edf3&dates=ff1493&hide_border=false" />
 
 </div>
 
