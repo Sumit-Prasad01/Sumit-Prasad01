@@ -168,8 +168,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Prasad01&theme=synthwave&hide_border=true&show_icons=true&bg_color=0d1117&layout=compact&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumit-Prasad01&theme=synthwave&hide_border=true&background=0d1117" />
+<img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sumit-Prasad01&theme=synthwave&hide_border=true&show_icons=true&bg_color=0d1117&layout=compact&include_all_commits=true&count_private=true" />
+
+<img height="200" src="https://streak-stats.demolab.com/?user=Sumit-Prasad01&theme=synthwave&hide_border=true&background=0d1117" />
 
 </div>
 
