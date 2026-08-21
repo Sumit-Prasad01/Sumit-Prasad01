@@ -58,7 +58,7 @@
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/sumit-prasad-94a98531b)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/SumitPrasad_19)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/sumitt_dev)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:sumitprasadd19@gmail.com)
 
 </div>
