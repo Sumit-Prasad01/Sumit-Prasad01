@@ -89,21 +89,6 @@ I care about more than getting a model to work — I focus on **evaluation, reli
 
 ---
 
-## `> selected_work`
-
-| Project               | What I built                                                                            |
-| --------------------- | --------------------------------------------------------------------------------------- |
-| **AMARIS**            | Multi-agent research intelligence system using RAG, GraphRAG, LangGraph, Qdrant & Neo4j |
-| **Shopper Spectrum**  | Customer segmentation + recommendation system over 540K+ transactions                   |
-| **CoursePilot AI**    | AI-powered course planning and recommendation system                                    |
-| **MeetingMind AI**    | LLM-based meeting understanding, summarization & knowledge extraction                   |
-| **AI Travel Planner** | Agentic travel planning system with tool-based reasoning                                |
-| **MedScript-AI**      | AI-assisted medical document processing and information extraction                      |
-
-> More projects → **[GitHub](https://github.com/Sumit-Prasad01)**
-
----
-
 ## `> what_im_learning`
 
 ```text
